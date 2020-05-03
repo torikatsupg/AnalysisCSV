@@ -1,0 +1,902 @@
+"2020-05-01","4ec3776","torikatsu","企業ロゴ修正"
+ 1 file changed, 6 insertions(+), 9 deletions(-)
+
+"2020-05-01","6a2dd4c","yuyaamano","全てのページでtopへ戻るように修正"
+ 4 files changed, 3 insertions(+), 9 deletions(-)
+
+"2020-05-01","5681c9a","yuyaamano","ToPageTopButtonの挙動修正"
+ 2 files changed, 14 insertions(+), 9 deletions(-)
+
+"2020-05-01","8333230","yuyaamano","animatnionプリﾌｪｯｸｽ追加"
+ 3 files changed, 9 insertions(+)
+
+"2020-05-01","0e1e430","yuyaamano","svg box-shadow修正"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-05-01","849986e","yuyaamano","ハンバーガメニュー開閉不具合修正"
+ 1 file changed, 9 insertions(+), 2 deletions(-)
+
+"2020-05-01","dacb0d1","yuyaamano","変更"
+ 5 files changed, 26 insertions(+), 19 deletions(-)
+
+"2020-05-01","44c1784","torikatsu","白線の幅修正"
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+
+"2020-05-01","1a95e0f","torikatsu","並び替えのバグ修正"
+ 1 file changed, 4 insertions(+), 5 deletions(-)
+
+"2020-05-01","243af91","torikatsu","フッター修正とバインディング修正"
+ 3 files changed, 25 insertions(+), 8 deletions(-)
+
+"2020-05-01","67fffba","torikatsu","企業カード修正"
+ 2 files changed, 122 insertions(+), 10 deletions(-)
+
+"2020-05-01","bbd06b1","Yuki Yamamoto","imgタグのセンタリングと文字fonnsizeについて"
+ 1 file changed, 17 insertions(+), 1 deletion(-)
+
+"2020-05-01","4ad2d0d","Yuki Yamamoto","Snsボタンのセンタリング修正"
+ 1 file changed, 11 insertions(+), 3 deletions(-)
+
+"2020-05-01","367ac72","torikatsu","カラーコード修正"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-05-01","054933c","torikatsu","プリレンダリングの設定"
+ 2 files changed, 16 insertions(+)
+
+"2020-05-01","1f5ba40","torikatsu","wordpressの修正"
+ 2 files changed, 40 insertions(+), 32 deletions(-)
+
+"2020-05-01","4700e56","torikatsu","vuexで管理してるデータのバインディング"
+ 4 files changed, 45 insertions(+), 12 deletions(-)
+
+"2020-05-01","b59b299","Yuki Yamamoto","about.vueのインデントを揃える"
+ 2 files changed, 13 insertions(+), 6 deletions(-)
+
+"2020-05-01","012a025","torikatsu","フィルターラベル修正"
+ 2 files changed, 37 insertions(+), 9 deletions(-)
+
+"2020-05-01","7161135","Yuki Yamamoto","トップページのabout周りの余白変更"
+ 2 files changed, 36 insertions(+), 16 deletions(-)
+
+"2020-05-01","d9420a1","torikatsu","もっと読み込むボタンの修正"
+ 2 files changed, 19 insertions(+), 4 deletions(-)
+
+"2020-04-30","1f16357","torikatsu","黄色の変更"
+ 8 files changed, 12 insertions(+), 12 deletions(-)
+
+"2020-04-30","7338f14","torikatsu","カラーピッカーの修正"
+ 4 files changed, 66 insertions(+), 25 deletions(-)
+
+"2020-04-30","53d97c6","torikatsu","色変更機能追加"
+ 16 files changed, 76 insertions(+), 41 deletions(-)
+
+"2020-04-30","54c5a30","torikatsu","detail修正"
+ 3 files changed, 9 insertions(+), 4 deletions(-)
+
+"2020-04-30","94fc6f6","torikatsu","デプロイ設定"
+ 2 files changed, 6 insertions(+), 13 deletions(-)
+
+"2020-04-30","3f70d5b","torikatsu","テスト修正"
+ 2 files changed, 64 deletions(-)
+
+"2020-04-30","6fa9c8a","torikatsu","タイトル修正"
+ 2 files changed, 9 insertions(+), 3 deletions(-)
+
+"2020-04-30","a3ba0d3","torikatsu","タイトル仮置き"
+ 4 files changed, 14 insertions(+), 301 deletions(-)
+
+"2020-04-30","bdb6239","yuyaamano","スマホ版サイドメニュー定位置固定"
+ 2 files changed, 5 insertions(+), 4 deletions(-)
+
+"2020-04-30","09d08b5","yuyaamano","ホバー時の大きさ修正"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-30","dc661ec","yuyaamano","スマホ版でのデザイン修正"
+ 1 file changed, 38 insertions(+), 23 deletions(-)
+
+"2020-04-30","d0ee568","Yuki Yamamoto","footernavの文字変更"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-30","c9480b0","Yuki Yamamoto","ハンバーガーメニューの順序入れ替え"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-30","38f6f97","Yuki Yamamoto","toppageのアンカーのid設定"
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+"2020-04-30","d779a69","Yuki Yamamoto","footerのスクロール修正"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-30","4a9d879","Yuki Yamamoto","hamburgerメニューにスクロール機能を実装"
+ 1 file changed, 20 insertions(+), 9 deletions(-)
+
+"2020-04-30","5c57e42","Yuki Yamamoto","sidenavのtest修正"
+ 1 file changed, 12 insertions(+), 5 deletions(-)
+
+"2020-04-30","28d9de4","Yuki Yamamoto","Sidenavにスクロールイベントwo"
+ 2 files changed, 40 insertions(+), 8 deletions(-)
+
+"2020-04-30","0e205ed","yuyaamano","SNSリンクの設置、heightの調整"
+ 1 file changed, 15 insertions(+), 4 deletions(-)
+
+"2020-04-30","9652cfd","yuyaamano","hamberger_wrapperの位置調整"
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+"2020-04-30","4f879e3","yuyaamano","ロゴの設置"
+ 1 file changed, 10 insertions(+)
+
+"2020-04-30","d98091a","yuyaamano","全体位置調整"
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+"2020-04-30","94e8e8d","yuyaamano","svg書き出し"
+ 3 files changed, 16 insertions(+)
+
+"2020-04-30","6342f19","yuyaamano","ハンバーガメニューsvgを2つ用意"
+ 1 file changed, 50 insertions(+), 21 deletions(-)
+
+"2020-04-30","a3fa517","Yuki Yamamoto","さらに読み込むボタンが埋もれてたとこ修正"
+ 1 file changed, 1 insertion(+)
+
+"2020-04-30","f196df7","Yuki Yamamoto","footerのnavクリック時の振る舞い修正"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-30","f10e90e","Yuki Yamamoto","facebookの大きさ変更"
+ 1 file changed, 7 insertions(+), 1 deletion(-)
+
+"2020-04-30","789770d","torikatsu","ロゴを読み込むようにする"
+ 3 files changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-30","0c93567","torikatsu","フッターの修正"
+ 2 files changed, 12 insertions(+), 2 deletions(-)
+
+"2020-04-30","07bae9e","Yuki Yamamoto","友だち登録画面に飛ぶように変更"
+ 1 file changed, 15 insertions(+), 4 deletions(-)
+
+"2020-04-30","959bf8c","torikatsu","ラベルの修正と記事のメタデータ修正"
+ 8 files changed, 45 insertions(+), 15 deletions(-)
+
+"2020-04-30","f5d8647","Yuki Yamamoto","test変更"
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-30","6472245","Yuki Yamamoto","mountedフックにスクロール機能を追加"
+ 1 file changed, 11 insertions(+), 3 deletions(-)
+
+"2020-04-30","de7850e","torikatsu","オススメ関連記事がかぶらないようにする"
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+"2020-04-30","2e50abb","Yuki Yamamoto","click時、現在のルートに応じてページ遷移とスクロールをするように変更"
+ 1 file changed, 20 insertions(+), 2 deletions(-)
+
+"2020-04-30","2900808","Yuki Yamamoto","list内のオブジェクトにhash値を追加"
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+
+"2020-04-30","2c5543c","torikatsu","企業のHP ni に行けるようにする"
+ 6 files changed, 38 insertions(+), 32 deletions(-)
+
+"2020-04-30","f5e83e7","Yuki Yamamoto","vue-scrolltoの導入"
+ 2 files changed, 9 insertions(+), 2 deletions(-)
+
+"2020-04-30","dc71da7","torikatsu","企業の無限読み込みを解除"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-30","436426c","torikatsu","タグ検索とソートを有効にする"
+ 6 files changed, 36 insertions(+), 4 deletions(-)
+
+"2020-04-30","14d0949","torikatsu","APIの修正"
+ 4 files changed, 41 insertions(+), 31 deletions(-)
+
+"2020-04-29","786f660","torikatsu","articlemetaのメタ情報追加"
+ 1 file changed, 17 insertions(+)
+
+"2020-04-29","e30a243","torikatsu","props周りの修正"
+ 5 files changed, 27 insertions(+), 36 deletions(-)
+
+"2020-04-29","a577749","torikatsu","ソートの処理作成"
+ 3 files changed, 41 insertions(+), 17 deletions(-)
+
+"2020-04-29","09f78e3","torikatsu","テスト修正"
+ 1 file changed, 3 insertions(+), 22 deletions(-)
+
+"2020-04-29","aec4d08","torikatsu","ボタンの処理作成"
+ 1 file changed, 11 insertions(+), 4 deletions(-)
+
+"2020-04-29","1e0c0ab","torikatsu","フィルターボタン作成"
+ 3 files changed, 90 insertions(+), 25 deletions(-)
+
+"2020-04-29","6b45cf2","torikatsu","色変更機能の追加"
+ 4 files changed, 32 insertions(+), 8 deletions(-)
+
+"2020-04-29","af967b7","torikatsu","apiの修正"
+ 2 files changed, 68 insertions(+), 84 deletions(-)
+
+"2020-04-29","2c4268f","yuyaamano","headerslide全体の大きさ調整"
+ 2 files changed, 45 insertions(+), 9 deletions(-)
+
+"2020-04-29","2b9924f","yuyaamano","トリミングした背景画像をassetsに追加"
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+"2020-04-29","5d2af67","torikatsu","Revert "Delete HeaderSlide.vue""
+ 1 file changed, 231 insertions(+)
+
+"2020-04-29","9c997b3","torikatsu","Delete HeaderSlide.vue"
+ 1 file changed, 231 deletions(-)
+
+"2020-04-29","ed3537b","torikatsu","テスト"
+ 1 file changed, 25 insertions(+)
+
+"2020-04-29","81ebfdb","torikatsu","データをロードできるようにする"
+ 3 files changed, 60 insertions(+), 52 deletions(-)
+
+"2020-04-29","2bc5da9","torikatsu","記事読み込みボタン作成;"
+ 5 files changed, 123 insertions(+), 23 deletions(-)
+
+"2020-04-28","9a3f130","torikatsu","Revert "HeaderSlideに背景画像を読み込む""
+ 2 files changed, 2 insertions(+), 3 deletions(-)
+
+"2020-04-28","24394a5","torikatsu","記事一覧読み込みボタン変更"
+ 1 file changed, 9 insertions(+), 1 deletion(-)
+
+"2020-04-28","d1ed0f1","yuyaamano","HeaderSlideに背景画像を読み込む"
+ 2 files changed, 3 insertions(+), 2 deletions(-)
+
+"2020-04-28","3459820","torikatsu","記事無限読み込みテスト用"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-28","d8ac8a3","torikatsu","記事無限読み込み"
+ 1 file changed, 37 insertions(+)
+
+"2020-04-28","21d7564","torikatsu","企業情報無限読み込み"
+ 3 files changed, 38 insertions(+), 9 deletions(-)
+
+"2020-04-27","f9568ab","鳥居克哉","テーマカラー適用"
+ 4 files changed, 16 insertions(+), 19 deletions(-)
+
+"2020-04-27","8268e39","Yuki Yamamoto","対応するtestの変更"
+ 1 file changed, 3 insertions(+), 16 deletions(-)
+
+"2020-04-27","cb510a7","Yuki Yamamoto","RecommendTagTextの変更"
+ 1 file changed, 24 insertions(+), 45 deletions(-)
+
+"2020-04-27","ad4d8ce","鳥居克哉","フッターの変更"
+ 2 files changed, 13 insertions(+), 2 deletions(-)
+
+"2020-04-27","f75aa6f","鳥居克哉","snsボタンの共有機能追加"
+ 4 files changed, 22 insertions(+), 3 deletions(-)
+
+"2020-04-27","a501810","yuyaamano","表示崩れの修正"
+ 1 file changed, 13 insertions(+), 9 deletions(-)
+
+"2020-04-27","370d50d","yuyaamano","SNSボタンホバー時の挙動修正、heightを大きく"
+ 1 file changed, 13 insertions(+), 13 deletions(-)
+
+"2020-04-27","03f1f52","鳥居克哉","HelloWorldの削除"
+ 1 file changed, 12 deletions(-)
+
+"2020-04-27","f75e71c","鳥居克哉","notfoundページ作成・ボタンの処理追加"
+ 13 files changed, 104 insertions(+), 136 deletions(-)
+
+"2020-04-27","a79c6ac","鳥居克哉","ページ遷移すると一番上にいくようにする"
+ 4 files changed, 7 insertions(+), 3 deletions(-)
+
+"2020-04-27","2960cc4","鳥居克哉","propsでonClickを渡せるように修正"
+ 3 files changed, 11 insertions(+), 2 deletions(-)
+
+"2020-04-27","ea904c1","鳥居克哉","テストが通るようにする"
+ 17 files changed, 80 insertions(+), 84 deletions(-)
+
+"2020-04-27","4eedcc8","鳥居克哉","タグのクリック時の挙動追加"
+ 6 files changed, 43 insertions(+), 7 deletions(-)
+
+"2020-04-27","6aaf5a3","鳥居克哉","PageInitializerの作成"
+ 3 files changed, 62 insertions(+), 53 deletions(-)
+
+"2020-04-27","b492eed","鳥居克哉","タグなし用のstate削除"
+ 1 file changed, 4 insertions(+), 27 deletions(-)
+
+"2020-04-27","53e2f0d","鳥居克哉","AboutContainer周りの修正"
+ 6 files changed, 38 insertions(+), 44 deletions(-)
+
+"2020-04-27","47bc6fe","yuyaamano","テストに通るようにCompaniesLogo.vueを修正"
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-27","4272d4a","yuyaamano","その他微調整"
+ 1 file changed, 1 insertion(+)
+
+"2020-04-27","4bfd148","yuyaamano","微調整"
+ 2 files changed, 5 insertions(+), 6 deletions(-)
+
+"2020-04-27","664cf3f","yuyaamano","企業ロゴループを修正"
+ 2 files changed, 49 insertions(+), 15 deletions(-)
+
+"2020-04-27","3cf8b39","鳥居克哉","Footerの移動"
+ 13 files changed, 93 insertions(+), 64 deletions(-)
+
+"2020-04-27","e519ea6","yuyaamano","テストファイル修正"
+ 3 files changed, 2 insertions(+), 14 deletions(-)
+
+"2020-04-27","5cf833b","yuyaamano","ToTopAndContactの削除"
+ 1 file changed, 75 deletions(-)
+
+"2020-04-27","0177610","yuyaamano","その他修正"
+ 3 files changed, 9 insertions(+), 9 deletions(-)
+
+"2020-04-27","9a33474","yuyaamano","ToTopAndContanctButtonを削除し個々に機能を持たせる"
+ 2 files changed, 123 insertions(+), 38 deletions(-)
+
+"2020-04-27","2d2e3f1","yuyaamano","ToTopPageLabel修正"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-27","36147cc","yuyaamano","ToTopPageLabelの表示崩れ修正"
+ 1 file changed, 4 insertions(+), 3 deletions(-)
+
+"2020-04-27","8f923ca","鳥居克哉","オススメ関連記事の表示数を修正"
+ 2 files changed, 14 insertions(+), 8 deletions(-)
+
+"2020-04-27","ebce933","鳥居克哉","cardで日付を受け取れるように変更"
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-27","8cdec08","鳥居克哉","cardの高さ変更"
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-27","680920e","yuyaamano","Tagへ送るpropsに具体的なタグ例を挿入"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-27","6cbdd34","yuyaamano","RecommendedTagsも同じように修正"
+ 2 files changed, 11 insertions(+), 3 deletions(-)
+
+"2020-04-27","e9ed9d4","yuyaamano","CardTag.vueの拡大率を文字数によって変更"
+ 2 files changed, 10 insertions(+), 3 deletions(-)
+
+"2020-04-27","627b951","鳥居克哉","コンフリクト解消"
+ 1 file changed, 3 insertions(+), 43 deletions(-)
+
+"2020-04-27","2a674cd","鳥居克哉","企業一覧周りの変更"
+ 10 files changed, 49 insertions(+), 191 deletions(-)
+
+"2020-04-27","0d90530","Yuki Yamamoto","ボタンのcss修正"
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+
+"2020-04-27","ad31075","Yuki Yamamoto","不必要となったファイルの削除"
+ 4 files changed, 84 deletions(-)
+
+"2020-04-27","8d480c3","Yuki Yamamoto","記事一覧ページ（タグなし）のデザイン改善"
+ 2 files changed, 78 insertions(+), 114 deletions(-)
+
+"2020-04-27","cd98840","Yuki Yamamoto","vuecarouselの再インポート"
+ 1 file changed, 4 insertions(+)
+
+"2020-04-26","6681b8e","鳥居克哉","企業一覧取得APIの作成"
+ 3 files changed, 109 insertions(+), 2 deletions(-)
+
+"2020-04-26","a353811","鳥居克哉","タグの遷移設定"
+ 4 files changed, 19 insertions(+), 7 deletions(-)
+
+"2020-04-26","765abbc","鳥居克哉","ページ遷移時にデータを読み込むようにする"
+ 10 files changed, 85 insertions(+), 71 deletions(-)
+
+"2020-04-26","6925e00","鳥居克哉","/detail/:idでAPIを叩く"
+ 3 files changed, 30 insertions(+), 6 deletions(-)
+
+"2020-04-26","73ae30e","鳥居克哉","画像が表示されない問題の修正"
+ 11 files changed, 21 insertions(+), 19 deletions(-)
+
+"2020-04-26","088af05","鳥居克哉","トップページでAPIを叩く"
+ 15 files changed, 121 insertions(+), 74 deletions(-)
+
+"2020-04-26","08884fe","鳥居克哉","actions追加"
+ 1 file changed, 142 insertions(+), 1 deletion(-)
+
+"2020-04-26","4509dc1","鳥居克哉","apiの修正"
+ 3 files changed, 14 insertions(+), 10 deletions(-)
+
+"2020-04-26","a264e0a","鳥居克哉","mutationsの追加"
+ 1 file changed, 32 insertions(+), 4 deletions(-)
+
+"2020-04-26","a558be2","鳥居克哉","stateの変更"
+ 6 files changed, 115 insertions(+), 46 deletions(-)
+
+"2020-04-26","740c1cd","鳥居克哉","props→storeの移行"
+ 35 files changed, 410 insertions(+), 1174 deletions(-)
+
+"2020-04-25","166b095","鳥居克哉","clientの変更"
+ 1 file changed, 5 insertions(+), 1 deletion(-)
+
+"2020-04-25","0f14c4b","yuyaamano","テストファイルの修正"
+ 2 files changed, 7 insertions(+), 44 deletions(-)
+
+"2020-04-25","edb731d","yuyaamano","TopPage.vueにtopへ戻るボタン、コンタクトフォームへのボタンを追加"
+ 1 file changed, 8 insertions(+), 2 deletions(-)
+
+"2020-04-25","c67f8a6","yuyaamano","topへ戻るボタン、コンタクトフォームへのボタンの修正"
+ 2 files changed, 50 insertions(+), 39 deletions(-)
+
+"2020-04-25","718f777","yuyaamano","カスタムディレクティブの削除"
+ 1 file changed, 15 deletions(-)
+
+"2020-04-25","70b331b","yuyaamano","全体の微調整"
+ 1 file changed, 15 insertions(+), 13 deletions(-)
+
+"2020-04-25","9bbcedf","yuyaamano","headerslide.vueにハンバーガメニューを追加"
+ 1 file changed, 18 insertions(+)
+
+"2020-04-25","cf1bfaf","yuyaamano","testファイル作成"
+ 1 file changed, 12 insertions(+)
+
+"2020-04-25","9469199","yuyaamano","ハンバーガメニュー開閉機能の追加"
+ 2 files changed, 88 insertions(+), 35 deletions(-)
+
+"2020-04-25","9b48e92","yuyaamano","メニューを開いた状態のコンポーネント追加"
+ 5 files changed, 280 insertions(+)
+
+"2020-04-24","3228c22","鳥居克哉","仕様書の変更"
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-24","7b58030","鳥居克哉","axiosでAPIを叩けるようにする"
+ 3 files changed, 60 insertions(+), 9 deletions(-)
+
+"2020-04-24","cb68d8f","鳥居克哉","ApiClient.jsの作成"
+ 1 file changed, 13 insertions(+)
+
+"2020-04-24","588d1f9","Yuki Yamamoto","testのpropsの値が変だったので修正"
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-24","6d4dcab","Yuki Yamamoto","ToTopPage.vueのprops変更による親コンポーネントの変更"
+ 2 files changed, 3 insertions(+), 10 deletions(-)
+
+"2020-04-24","a07bb91","Yuki Yamamoto","v-forの使い方が違う点wo"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-24","5625717","鳥居克哉","左右にスクロールできるように修正"
+ 2 files changed, 37 insertions(+), 13 deletions(-)
+
+"2020-04-24","ce97d15","鳥居克哉","日付のフォーマット修正"
+ 2 files changed, 67 insertions(+), 38 deletions(-)
+
+"2020-04-24","73fc33d","鳥居克哉","APIの修正"
+ 1 file changed, 9 insertions(+), 5 deletions(-)
+
+"2020-04-24","8840c5e","Yuki Yamamoto","記事一覧コンポーネントのテストファイル移動"
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-24","a332f5d","Yuki Yamamoto","ToPageTopButtonの変更に伴うテスト変更"
+ 1 file changed, 1 insertion(+), 19 deletions(-)
+
+"2020-04-24","8169507","Yuki Yamamoto","data,propsの変更"
+ 1 file changed, 65 insertions(+), 65 deletions(-)
+
+"2020-04-24","3d09051","Yuki Yamamoto","TopPage.vueのprops修正"
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+
+"2020-04-24","717e711","Yuki Yamamoto","ToPageTopButton.vueのリファクタリング"
+ 1 file changed, 7 insertions(+), 14 deletions(-)
+
+"2020-04-24","8bb9aa4","Yuki Yamamoto","SelectedArticlesButton.vueのprops周りの対応"
+ 5 files changed, 36 insertions(+), 23 deletions(-)
+
+"2020-04-24","08f08ea","Yuki Yamamoto","CardTags.vueのリファクタリング"
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+
+"2020-04-24","2aefda8","Yuki Yamamoto","Sidenavのリファクタリング"
+ 2 files changed, 38 insertions(+), 28 deletions(-)
+
+"2020-04-24","c27ab55","Yuki Yamamoto","topへ戻るボタンの機能実装"
+ 2 files changed, 10 insertions(+), 12 deletions(-)
+
+"2020-04-24","4d576a1","Yuki Yamamoto","routerの設定"
+ 1 file changed, 22 insertions(+), 11 deletions(-)
+
+"2020-04-24","3ee5b54","Yuki Yamamoto","記事一覧コンポーネントのディレクトリ移動"
+ 2 files changed, 23 insertions(+), 20 deletions(-)
+
+"2020-04-24","d3846c1","Yuki Yamamoto","toppageに企業スクロールを追加"
+ 1 file changed, 18 insertions(+), 1 deletion(-)
+
+"2020-04-24","b1e2989","Yuki Yamamoto","SNSシェアの変更"
+ 6 files changed, 126 insertions(+), 29 deletions(-)
+
+"2020-04-24","ef7cc9c","鳥居克哉",":"
+ 2 files changed, 68 insertions(+)
+
+"2020-04-23","352461b","鳥居克哉","/company-logo,/tagsの作成"
+ 1 file changed, 164 insertions(+), 9 deletions(-)
+
+"2020-04-23","55e4e2a","Yuki Yamamoto","不必要な差異を削除"
+ 1 file changed, 8 deletions(-)
+
+"2020-04-23","27010b5","鳥居克哉","/featuresの作成"
+ 1 file changed, 164 insertions(+)
+
+"2020-04-23","34ab3a0","Yuki Yamamoto","TopPage.vueのテストファイルの作成"
+ 1 file changed, 9 insertions(+)
+
+"2020-04-23","434568f","Yuki Yamamoto","vuecrouselの詳細設定"
+ 1 file changed, 8 insertions(+), 4 deletions(-)
+
+"2020-04-23","3ec3d07","Yuki Yamamoto","トップページの親コンポーネント作成"
+ 1 file changed, 151 insertions(+)
+
+"2020-04-23","6351210","Yuki Yamamoto","toppageのrouter設定"
+ 1 file changed, 5 insertions(+)
+
+"2020-04-23","680007f","Yuki Yamamoto","HeaderSlide.vueにcolorpickerなど表示"
+ 1 file changed, 34 insertions(+), 3 deletions(-)
+
+"2020-04-23","ba69b44","Yuki Yamamoto","トップページのヘッダーコンポーネント作成"
+ 1 file changed, 32 insertions(+)
+
+"2020-04-23","e6b20bc","Yuki Yamamoto","ボタンのテキスト変更"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-22","db5b2c1","yuyaamano","テストファイル作成"
+ 4 files changed, 89 insertions(+)
+
+"2020-04-22","984875a","yuyaamano","ファイル修正"
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+
+"2020-04-22","f1dff92","yuyaamano","企業一覧ロゴのコンポーネントの作成"
+ 4 files changed, 198 insertions(+)
+
+"2020-04-21","5e99b9d","Yuki Yamamoto","SNSボタンの適用"
+ 2 files changed, 14 insertions(+), 5 deletions(-)
+
+"2020-04-21","ed4b317","Yuki Yamamoto","SnsButton.vueの作成"
+ 1 file changed, 88 insertions(+)
+
+"2020-04-21","ecabe04","Yuki Yamamoto","fontawesomeの導入"
+ 2 files changed, 13 insertions(+)
+
+"2020-04-21","6301aad","yuyaamano","footerへのテキスト挿入"
+ 4 files changed, 12 insertions(+), 4 deletions(-)
+
+"2020-04-21","2865393","yuyaamano","top_headerへテキスト追加"
+ 2 files changed, 43 insertions(+)
+
+"2020-04-21","630c0b8","yuyaamano","about_containerへテキスト追加"
+ 3 files changed, 13 insertions(+), 6 deletions(-)
+
+"2020-04-20","8a68fd4","yuyaamano","top_headerのtestファイル修正"
+ 2 files changed, 3 insertions(+), 9 deletions(-)
+
+"2020-04-20","64b3035","yuyaamano","各種ファイル修正"
+ 4 files changed, 8 insertions(+), 20 deletions(-)
+
+"2020-04-20","daf9f4d","yuyaamano","animationの追加"
+ 3 files changed, 114 insertions(+), 7 deletions(-)
+
+"2020-04-19","fe8d1ea","yuyaamano","top_headerの修正"
+ 4 files changed, 25 insertions(+), 76 deletions(-)
+
+"2020-04-19","87285ee","Yuki Yamamoto","画面ふちの余白を消すｃｓｓ設定"
+ 1 file changed, 4 insertions(+)
+
+"2020-04-19","c49ce68","Yuki Yamamoto","ページカラーの設定"
+ 2 files changed, 2 insertions(+)
+
+"2020-04-19","9135a78","Yuki Yamamoto","テストファイルの作成"
+ 11 files changed, 283 insertions(+)
+
+"2020-04-19","5d0b9e1","Yuki Yamamoto","記事一覧ページのトップへ戻るボタンの作成"
+ 1 file changed, 33 insertions(+)
+
+"2020-04-19","a2422a8","Yuki Yamamoto","記事一覧ページのタイトルコンポーネント作成"
+ 1 file changed, 48 insertions(+)
+
+"2020-04-19","706ed2a","Yuki Yamamoto","記事一覧ページのソート順表示コンポーネント作成"
+ 1 file changed, 95 insertions(+)
+
+"2020-04-19","5ea5333","Yuki Yamamoto","記事一覧（タグあり）ページのラッパーコンポーネント作成"
+ 1 file changed, 162 insertions(+)
+
+"2020-04-19","000d88e","Yuki Yamamoto","記事一覧（タグなし）ページのラッパーコンポーネント作成"
+ 1 file changed, 223 insertions(+)
+
+"2020-04-19","ce96a6d","Yuki Yamamoto","記事一覧（タグなし）ページの横スクロールボタンコンポーネント作成"
+ 2 files changed, 66 insertions(+)
+
+"2020-04-19","ad12db7","Yuki Yamamoto","記事一覧（タグなし）ページのカードラッパーコンポーネント作成（横スクロール）"
+ 1 file changed, 164 insertions(+)
+
+"2020-04-19","e1cfffa","Yuki Yamamoto","記事一覧ページの検索フィルター表示部分のコンポーネント作成"
+ 1 file changed, 41 insertions(+)
+
+"2020-04-19","ea2c475","Yuki Yamamoto","記事一覧（タグあり）画面のカードラッパーコンポーネント作成"
+ 1 file changed, 60 insertions(+)
+
+"2020-04-19","b38bf7b","Yuki Yamamoto","弧のようなヘッダー部分のコンポーネント作成"
+ 1 file changed, 31 insertions(+)
+
+"2020-04-19","b56227c","鳥居克哉","API仕様書の作成"
+ 1 file changed, 118 insertions(+)
+
+"2020-04-16","56bdce6","yuyaamano","その他ファイル修正"
+ 2 files changed, 2 insertions(+), 36 deletions(-)
+
+"2020-04-16","7ae13d1","yuyaamano","テストファイルの作成"
+ 6 files changed, 117 insertions(+), 6 deletions(-)
+
+"2020-04-16","bec84bf","yuyaamano","recommendedフォルダの修正"
+ 2 files changed, 1 insertion(+), 53 deletions(-)
+
+"2020-04-16","fb530a7","yuyaamano","各ボタンの修正"
+ 2 files changed, 7 insertions(+), 9 deletions(-)
+
+"2020-04-15","3b05bd2","yuyaamano","フェードイン＋スクロール検知の実装"
+ 3 files changed, 73 insertions(+), 5 deletions(-)
+
+"2020-04-15","08743c1","yuyaamano","vue-scrollの導入"
+ 2 files changed, 14 insertions(+)
+
+"2020-04-15","bebfadc","yuyaamano","修正＋topへ戻る機能を追加"
+ 1 file changed, 15 insertions(+), 1 deletion(-)
+
+"2020-04-15","a1103c9","yuyaamano","ToContactButtonの修正"
+ 1 file changed, 53 insertions(+)
+
+"2020-04-15","260f4da","鳥居克哉","テスト"
+ 2 files changed, 65 insertions(+), 9 deletions(-)
+
+"2020-04-15","8e1e506","yuyaamano","おすすめタグエリアの修正"
+ 2 files changed, 2 insertions(+), 62 deletions(-)
+
+"2020-04-15","1d4c33c","鳥居克哉","余白の調整"
+ 6 files changed, 139 insertions(+), 15 deletions(-)
+
+"2020-04-15","e2735fb","鳥居克哉","cssの修正"
+ 15 files changed, 20 insertions(+), 17 deletions(-)
+
+"2020-04-15","2dbadd9","鳥居克哉","Articleのテスト"
+ 11 files changed, 279 insertions(+), 12 deletions(-)
+
+"2020-04-14","ceafe0b","鳥居克哉","propsの追加"
+ 4 files changed, 57 insertions(+), 80 deletions(-)
+
+"2020-04-14","de181bb","yuyaamano","components/recommendedテストファイルの修正"
+ 6 files changed, 117 insertions(+), 26 deletions(-)
+
+"2020-04-14","065da33","yuyaamano","top_headerテストファイルの修正"
+ 5 files changed, 64 insertions(+), 22 deletions(-)
+
+"2020-04-14","1d27b3c","鳥居克哉","記事詳細ページのデザイン調整"
+ 3 files changed, 72 insertions(+), 6 deletions(-)
+
+"2020-04-14","871bc99","鳥居克哉","記事詳細ページの統合"
+ 4 files changed, 126 insertions(+), 28 deletions(-)
+
+"2020-04-13","beda8ba","鳥居克哉","デザインざっくり"
+ 11 files changed, 275 insertions(+), 70 deletions(-)
+
+"2020-04-12","61b9643","yuyaamano","その他修正"
+ 1 file changed, 13 insertions(+), 1 deletion(-)
+
+"2020-04-12","199e2cb","yuyaamano","HeaderSlideTest.spec.jsの作成"
+ 2 files changed, 32 insertions(+), 1 deletion(-)
+
+"2020-04-12","5838ec7","yuyaamano","TopTextContentTest.spec.jsの作成"
+ 2 files changed, 35 insertions(+), 9 deletions(-)
+
+"2020-04-12","f7e415b","yuyaamano","TopTitleTest.spec.jsの作成"
+ 2 files changed, 43 insertions(+), 14 deletions(-)
+
+"2020-04-12","62abfb6","yuyaamano","ScrollLogoTest.spec.jsの作成"
+ 1 file changed, 11 insertions(+)
+
+"2020-04-12","ba8a80c","yuyaamano","scrollロゴコンポーネントの作成"
+ 2 files changed, 82 insertions(+)
+
+"2020-04-12","c0c20b1","yuyaamano","TopTextContent.vue(トップページ概要・説明文＋HeadSquaerButton)の作成"
+ 1 file changed, 75 insertions(+)
+
+"2020-04-12","41668aa","yuyaamano","TopTitle.vue(タイトル、サブタイトルコンポーネント)の作成"
+ 1 file changed, 96 insertions(+)
+
+"2020-04-12","accb8dc","yuyaamano","HeaderSlide.vue(toppageのスライド全体のコンポーネント)の作成"
+ 1 file changed, 148 insertions(+)
+
+"2020-04-12","cb3d6c2","yuyaamano","vue-caruselの導入"
+ 1 file changed, 1 insertion(+)
+
+"2020-04-09","0262732","鳥居克哉","カードの作成"
+ 4 files changed, 267 insertions(+)
+
+"2020-04-08","f7fc0a1","鳥居克哉","めたデータコンポーネントの作成"
+ 5 files changed, 288 insertions(+)
+
+"2020-04-07","5de835b","yuyaamano","その他修正"
+ 3 files changed, 16 insertions(+), 6 deletions(-)
+
+"2020-04-07","c6d200d","yuyaamano","Recommended.vueのテスト"
+ 1 file changed, 10 insertions(+)
+
+"2020-04-07","51e630b","yuyaamano","RecommendedCenter.vueのテスト"
+ 1 file changed, 15 insertions(+)
+
+"2020-04-07","eca20f0","yuyaamano","ToContactButton.vueのテスト"
+ 1 file changed, 14 insertions(+)
+
+"2020-04-07","5851856","yuyaamano","全体の細かな修正"
+ 4 files changed, 9 insertions(+), 58 deletions(-)
+
+"2020-04-07","78c179c","yuyaamano","RecommendedCenter.vueを追加"
+ 3 files changed, 168 insertions(+), 105 deletions(-)
+
+"2020-04-07","b638190","yuyaamano","Recommended.vueのその他レスポンシブ対応"
+ 1 file changed, 78 insertions(+), 10 deletions(-)
+
+"2020-04-07","a4f1d4a","yuyaamano","Recommended.vueのスマホレスポンシブ対応"
+ 1 file changed, 112 insertions(+)
+
+"2020-04-07","3e905a7","Yuki Yamamoto","CardTagsno"
+ 1 file changed, 1 insertion(+)
+
+"2020-04-07","1b89972","Yuki Yamamoto","各コンポーネントへの色変更機能の追加 #51"
+ 7 files changed, 17 insertions(+), 17 deletions(-)
+
+"2020-04-06","4e76063","yuyaamano","コンタクトフォームへのボタンの修正"
+ 1 file changed, 1 insertion(+)
+
+"2020-04-06","11bbe9e","yuyaamano","コンタクトフォームへのボタンの修正"
+ 1 file changed, 3 deletions(-)
+
+"2020-04-06","b79cbaa","yuyaamano","コンタクトフォームへのボタンの作成"
+ 2 files changed, 47 insertions(+)
+
+"2020-04-06","3c402df","鳥居克哉","ファイルの作成"
+ 10 files changed, 0 insertions(+), 0 deletions(-)
+
+"2020-04-06","8971e03","Yuki Yamamoto","storeのmutations,state機能のテスト"
+ 1 file changed, 20 insertions(+)
+
+"2020-04-06","aa1361b","Yuki Yamamoto","ColorPicker.vueのテスト"
+ 1 file changed, 46 insertions(+)
+
+"2020-04-06","8de648b","Yuki Yamamoto","colorPickerButton.vueのテスト"
+ 1 file changed, 9 insertions(+)
+
+"2020-04-06","794918d","Yuki Yamamoto","色変更の機能をstoreに実装"
+ 1 file changed, 19 insertions(+)
+
+"2020-04-06","0af0197","Yuki Yamamoto","css変数の宣言と:styleの適用"
+ 1 file changed, 12 insertions(+), 1 deletion(-)
+
+"2020-04-06","4d3007f","Yuki Yamamoto","color_pickerコンポーネントの作成"
+ 2 files changed, 75 insertions(+)
+
+"2020-04-05","b470264","鳥居克哉","レスポンシブ対応とテスト修正"
+ 13 files changed, 168 insertions(+), 52 deletions(-)
+
+"2020-04-05","ea3df67","Yuki Yamamoto","passの修正"
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-05","b53da17","鳥居克哉","About,企業様へ,学生の人へコンポーネントの作成"
+ 11 files changed, 198 insertions(+), 9 deletions(-)
+
+"2020-04-04","ef6e2bd","鳥居克哉","デザインの微調整"
+ 2 files changed, 99 insertions(+), 29 deletions(-)
+
+"2020-04-04","68f6f2c","鳥居克哉","リファクタリング"
+ 10 files changed, 438 insertions(+), 283 deletions(-)
+
+"2020-04-04","dc31c89","鳥居克哉","propsの実装"
+ 1 file changed, 3 insertions(+)
+
+"2020-04-04","8b0c735","鳥居克哉","スタイルの微調整"
+ 1 file changed, 2 deletions(-)
+
+"2020-04-04","ad6ce97","鳥居克哉","〜についてのテンプレートコンポーネントの作成"
+ 2 files changed, 270 insertions(+)
+
+"2020-04-03","7fa7e4e","鳥居克哉","フッターテスト修正"
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+"2020-04-03","f1de3f3","鳥居克哉","フッターテスト"
+ 9 files changed, 99 insertions(+), 5 deletions(-)
+
+"2020-04-03","96097da","鳥居克哉","フッターのデザイン調整"
+ 3 files changed, 26 insertions(+), 24 deletions(-)
+
+"2020-04-03","66ab929","鳥居克哉","フッターのデザイン作成"
+ 13 files changed, 389 insertions(+), 41 deletions(-)
+
+"2020-04-03","6b03ecb","Yuki Yamamoto","Sidenavのテストファイルの作成"
+ 4 files changed, 26 insertions(+), 87 deletions(-)
+
+"2020-04-03","589f288","Yuki Yamamoto","Sidenav,SidenavButtonコンポーネントの作成"
+ 2 files changed, 93 insertions(+)
+
+"2020-04-03","5637edc","鳥居克哉","フッターのサイトマップコンポーネントの作成"
+ 10 files changed, 289 insertions(+), 43 deletions(-)
+
+"2020-04-02","79c9e93","鳥居克哉","フッター周りのファイル作成"
+ 6 files changed, 81 insertions(+)
+
+"2020-04-02","e22c234","鳥居克哉","NewArticlesのテスト"
+ 12 files changed, 330 insertions(+), 55 deletions(-)
+
+"2020-04-02","5e9501d","鳥居克哉","アニメーションの追加"
+ 1 file changed, 6 insertions(+), 2 deletions(-)
+
+"2020-04-02","7f190cb","鳥居克哉","矢印の向きの調整"
+ 2 files changed, 10 insertions(+), 2 deletions(-)
+
+"2020-04-02","b9e4962","鳥居克哉","タグのアコーディオンのスタイル調整"
+ 4 files changed, 68 insertions(+), 35 deletions(-)
+
+"2020-04-01","3721715","鳥居克哉","細かいスタイルの修正"
+ 2 files changed, 7 insertions(+), 2 deletions(-)
+
+"2020-04-01","d39a351","鳥居克哉","NewArticlesコンポーネントのスタイル適用"
+ 5 files changed, 125 insertions(+), 21 deletions(-)
+
+"2020-04-01","9e4c2a2","yuyaamano","RecommendedTagsにも同様の修正を加える"
+ 1 file changed, 8 insertions(+), 4 deletions(-)
+
+"2020-04-01","b3435de","yuyaamano","拡大時のボタン幅を修正"
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+"2020-04-01","8bc5250","yuyaamano","ボタン幅の調整"
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+"2020-04-01","1c0189b","yuyaamano","ボタン拡大の起点を左上に変更"
+ 1 file changed, 7 insertions(+), 2 deletions(-)
+
+"2020-04-01","319a689","鳥居克哉","Cardのテスト"
+ 6 files changed, 159 insertions(+), 12 deletions(-)
+
+"2020-04-01","3d70d70","鳥居克哉","Cardのスタイル"
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+"2020-04-01","3a00aaf","鳥居克哉","Cardのスタイル"
+ 5 files changed, 125 insertions(+), 14 deletions(-)
+
+"2020-03-31","a85f5c3","鳥居克哉","cardTitleの作成とテスト"
+ 6 files changed, 277 insertions(+), 15 deletions(-)
+
+"2020-03-31","ed2f1ea","鳥居克哉","ArticleCarファイルの作成"
+ 1 file changed, 15 insertions(+)
+
+"2020-03-31","817960f","鳥居克哉","ファイルのリネーム"
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+"2020-03-31","045a14b","鳥居克哉","NewArticlesTitleのユニットテスト"
+ 4 files changed, 30 insertions(+), 4 deletions(-)
+
+"2020-03-31","724f453","鳥居克哉","テストファイルの移動"
+ 4 files changed, 2 deletions(-)
+
+"2020-03-30","27e598f","鳥居克哉","SectionTitleのテスト"
+ 1 file changed, 26 insertions(+)
+
+"2020-03-30","a45ff01","鳥居克哉","SectionTitleの作成"
+ 7 files changed, 117 insertions(+)
+
+"2020-03-30","6041f41","yuyaamano","フォント指定を削除"
+ 2 files changed, 2 deletions(-)
+
+"2020-03-30","d945507","yuyaamano","共通コンポーネントの追加"
+ 9 files changed, 326 insertions(+), 5 deletions(-)
+
+"2020-03-29","274843e","Yuki Yamamoto","modified pass"
+ 4 files changed, 11 insertions(+), 11 deletions(-)
+
+"2020-03-28","aa930fe","yuyaamano","HelloWorldno"
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+
+"2020-03-28","ceb87da","Yuki Yamamoto","Sidenav.vue の作成"
+ 1 file changed, 48 insertions(+)
+
+"2020-03-28","a2fd881","Yuki Yamamoto","SidenavButton.vue の作成"
+ 1 file changed, 39 insertions(+)
+
+"2020-03-28","2ed5429","鳥居克哉","記事のレスポンスの形式のドキュメント作成"
+ 1 file changed, 122 insertions(+)
+
+"2020-03-27","7242443","鳥居克哉","共通スタイルの設定"
+ 1 file changed, 11 insertions(+), 1 deletion(-)
+
+"2020-03-26","ebf8908","鳥居克哉","snugcssの導入"
+ 3 files changed, 34 insertions(+)
+
+"2020-03-26","1fd51d6","鳥居克哉","jestの導入"
+ 9 files changed, 147 insertions(+), 20 deletions(-)
+
+"2020-03-17","a8e8e73","鳥居克哉","init"
+ 7 files changed, 152 insertions(+)
